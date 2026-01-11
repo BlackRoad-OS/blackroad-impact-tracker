@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Impact Tracker
+# BlackRoad Impact Tracker
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Social and environmental impact measurement for organizations and projects.
 
-## 🚀 Quick Start
+## Features
+- **Impact Metrics** - SDG-aligned measurement
+- **Reporting** - Automated impact reports
+- **Verification** - Third-party validation
+- **Dashboards** - Real-time impact visualization
+- **Benchmarking** - Compare with industry peers
+- **Transparency** - Stakeholder access
 
-```bash
-./blackroad-impact-tracker.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
